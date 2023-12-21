@@ -1,4 +1,4 @@
-Cristian G - AP CS Principles 1st Semester Extra Credit - 12/18/23
+Cristian - AP CS Principles 1st Semester Extra Credit - 12/18/23
 
 This project solves a pair raffle problem
 
