@@ -23,7 +23,9 @@ public class solveRaffle {
                     distance = distanceCurrent;
                     //Saves the best indices
                     bestIndexOne = i;
+                    //NOTE: For Debugging System.out.println(bestIndexOne);
                     bestIndexTwo = j+1;
+                    //NOTE: For Debugging System.out.println(bestIndexTwo);
                 }
             }
         }
